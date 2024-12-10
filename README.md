@@ -10,4 +10,4 @@ Steps:-
 1. Get the data and ingest into snowflake table
 2. Use the semantic model generator to create the yaml file.
 3.  create the snowflake -streamlit app
-4.  
+
